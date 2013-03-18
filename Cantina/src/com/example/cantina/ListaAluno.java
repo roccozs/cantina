@@ -92,6 +92,7 @@ public class ListaAluno extends Activity implements android.hardware.SensorEvent
 		@Override  
 		public void onAccuracyChanged(Sensor sensor, int accuracy) {  
 			// TODO Auto-generated method stub  
+			// gerei
 
 		}  
 
@@ -200,6 +201,8 @@ public class ListaAluno extends Activity implements android.hardware.SensorEvent
 	@Override
 	public void onAccuracyChanged(Sensor sensor, int accuracy) {
 		// TODO Auto-generated method stub
+		//gerei
+		
 
 	}
 	@Override
